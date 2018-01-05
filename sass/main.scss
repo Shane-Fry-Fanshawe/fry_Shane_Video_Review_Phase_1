@@ -1,0 +1,7 @@
+$primaryColor: #eeffcc;
+
+h1 {
+    color: $primaryColor;
+}
+
+@import 'modules/_modules'; //same as the scss
